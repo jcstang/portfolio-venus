@@ -1,0 +1,24 @@
+/* 
+portfolio-venus
+Dec 2019
+*/
+
+header {
+  padding: 20px 5px;
+  margin: 20px 0;
+  background-color: bisque;
+}
+
+ul.nav {
+  float: right;
+}
+
+header h1 {
+  float: left;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
