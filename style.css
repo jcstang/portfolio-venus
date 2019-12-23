@@ -1,12 +1,25 @@
 /* 
 portfolio-venus
 Dec 2019
+
+Color scheme from https://colorhunt.co/palette/2763
+#222831
+#393e46
+#00adb5
+#eeeeee
+
 */
+
+body {
+  background-color: #eeeeee;
+}
 
 header {
   padding: 20px 5px;
   margin: 20px 0;
-  background-color: bisque;
+  background-color: #393e46;
+  border-bottom: 5px solid #00adb5;
+  color: #eeeeee;
 }
 
 ul.nav {
